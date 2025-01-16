@@ -1,4 +1,6 @@
 # REPORT-ON-SUCIDE-COMMITTED-FROM-1985-2016
+This Analysis Shows the global suicide statistics, providing key demographic and economic information. It includes country, year, sex, and age to categorize the data by region, time, and demographic group. The dataset records the number of suicides (suicides no) and the total population.
+
 OBSERVATION
 
 The data provides an overview of global suicide rates from 1985 to 2016.
